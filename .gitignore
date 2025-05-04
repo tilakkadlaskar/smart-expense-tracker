@@ -1,0 +1,15 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite database file
+*.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment variables (if you have .env files later)
+.env
